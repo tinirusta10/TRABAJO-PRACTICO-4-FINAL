@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <listadeperros>
+    <id>1</id>
+    <Nombre>juan</Nombre>
+    <NombreDueño>mario</NombreDueño>
+    <Raza>Ovejero</Raza>
+    <Edad>2</Edad>
+    <Sexo>Macho</Sexo>
+  </listadeperros>
+  <listadeperros>
+    <id>2</id>
+    <Nombre>pedro</Nombre>
+    <NombreDueño>luis</NombreDueño>
+    <Raza>Labrador</Raza>
+    <Edad>3</Edad>
+    <Sexo>Macho</Sexo>
+  </listadeperros>
+  <listadeperros>
+    <id>3</id>
+    <Nombre>maca</Nombre>
+    <NombreDueño>diego</NombreDueño>
+    <Raza>Ovejero</Raza>
+    <Edad>2</Edad>
+    <Sexo>Hembra</Sexo>
+  </listadeperros>
+</DocumentElement>
